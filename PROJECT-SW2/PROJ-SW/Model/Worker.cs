@@ -15,20 +15,22 @@ namespace PROJ_SW.Model
 using System;
     using System.Collections.Generic;
     
-public partial class Cart_Product
+public partial class Worker
 {
 
     public int Id { get; set; }
 
-    public Nullable<int> Cart_Id { get; set; }
+    public string Fname { get; set; }
 
-    public Nullable<int> Prod_Id { get; set; }
+    public string Lname { get; set; }
 
+    public Nullable<int> Age { get; set; }
 
+    public string Address { get; set; }
 
-    public virtual Cart Cart { get; set; }
+    public string SSN { get; set; }
 
-    public virtual Product Product { get; set; }
+    public string PhoneNumber { get; set; }
 
 }
 

@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'E:\db\PROJECT-SW-master\PROJ-SW\Model\databaseProModel.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Sprint-2-SW2\PROJECT-SW2\PROJ-SW\Model\databaseProModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
